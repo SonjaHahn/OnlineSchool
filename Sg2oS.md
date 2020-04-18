@@ -6,7 +6,7 @@ Aufgabe: Finde für jede der folgenden Regeln mindestens einen passenden [Smiley
 
 ### Schreibtisch
 
-... erstmal aufräumen!
+**... erstmal aufräumen!**
 
 - Weg sollte: Was du aktuell nicht brauchst oder was ablenkt (z.B. leere Süßigkeitenpackungen, zu viel Deko, andere Projekte).
 - In der Nähe: Bücher, Hefte und weitere Schulmaterialien.
@@ -14,7 +14,7 @@ Aufgabe: Finde für jede der folgenden Regeln mindestens einen passenden [Smiley
 
 ### Rechner
 
-... entweder ausprobieren, Eltern/Freunde fragen oder eine Anleitung suchen:
+**... entweder ausprobieren, Eltern/Freunde fragen oder eine Anleitung suchen:**
 
 - Installiere wichtige Programme, soweit nicht vorhanden (z.B. Browser, Office, Dateiverwaltung, PDF-Viewer).
 - Lege Symbole für diese Programme an, damit du sie leicht finden und öffnen kannst.
@@ -27,7 +27,7 @@ Aufgabe: Finde für jede der folgenden Regeln mindestens einen passenden [Smiley
 
 ### Sonderfälle
 
-... der Kopf ist rund, damit das Denken die Richtung ändern kann!
+**... der Kopf ist rund, damit das Denken die Richtung ändern kann!**
 
 - Eine Kiste oder Tasche zum Sammeln von Materialien, wenn nicht am Schreibtisch gearbeitet werden kann.
 - Auch für das Smartphone gibt es Apps, z.B. um Fotos von Schulaufgaben zu machen, Vokablen zu lernen oder Word-Dokumente zu öffnen.
@@ -86,7 +86,7 @@ Oft merkt man daran, dass man Fragen hat oder Fehler macht, dass Lernen stattfin
 
 ### Ich komme auf ein anderes Ergebnis!
 
-- Gibt es für die Aufgabe überhaupt eine eindeutige Lösung? 
+- Gibt es für die Aufgabe überhaupt eine **eindeutige Lösung?** 
 
 #### Falls ja:
 
