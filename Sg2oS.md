@@ -1,6 +1,6 @@
-# Smiley goes to Online-School
+# Smiley goes to Online-School :house: :school:
  
-Aufgabe: Finde für jede der folgenden Regeln mindestens einen passenden [Smiley auf Github](https://gist.github.com/rxaviers/7360908).
+Aufgabe: Finde für jede der folgenden Regeln mindestens einen passenden :smile: [Smiley auf Github](https://gist.github.com/rxaviers/7360908).
 
 ## Richte deinen Arbeitsplatz ein!
 
