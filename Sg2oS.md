@@ -19,36 +19,36 @@ Aufgabe: Finde für jede der folgenden Regeln mindestens einen passenden :smile:
 - :floppy_disk: Installiere wichtige Programme, soweit nicht vorhanden (z.B. Browser, Office, Dateiverwaltung, PDF-Viewer).
 - :pushpin: Lege Symbole für diese Programme an, damit du sie leicht finden und öffnen kannst.
 - :file_folder: Erstelle einen Ordner für die Schule, am besten mit einem Unterordner für jedes Fach.
-- Sorge falls möglich für einen Internetzugang an deinem Arbeitsplatz.
+- :signal_strength: Sorge falls möglich für einen Internetzugang an deinem Arbeitsplatz.
 - :bookmark: Richte dir deinen Browser ein (z.B. Startseite/Lesezeichen für Suchmaschine, Messenger, E-Mail, Wörterbücher, Online-Lexika; Speicherort für Downloads).
 - :sound: Richte dir weitere Programme so ein, dass sie dich bei der Arbeit unterstützen (z.B. Ton für neue Nachricht an-/ausstellen, Standardeinstellungen für den Drucker).
 -  :eyeglasses: Recherchiere und lerne wichtige Shortcuts (z.B. Strg + C für Kopieren, Strg + V für Einfügen, Alt + Tab für Programm wechseln).
 - :open_hands: Lerne 10-Finger-System.
 
-### Sonderfälle
+### Sonderfälle :yum:
 
 **... der Kopf ist rund, damit das Denken die Richtung ändern kann!**
 
-- Eine Kiste oder Tasche zum Sammeln von Materialien, wenn nicht am Schreibtisch gearbeitet werden kann.
-- Auch für das Smartphone gibt es Apps, z.B. um Fotos von Schulaufgaben zu machen, Vokablen zu lernen oder Word-Dokumente zu öffnen.
+- :briefcase: Eine Kiste oder Tasche zum Sammeln von Materialien, wenn nicht am Schreibtisch gearbeitet werden kann.
+- :vibration_mode: Auch für das Smartphone gibt es Apps, z.B. um Fotos von Schulaufgaben zu machen, Vokablen zu lernen oder Word-Dokumente zu öffnen.
 - *Finde einen weiteren Sonderfall und schreibe ihn hier auf*
 
-## Finde deinen Rhytmus!
+## Finde deinen Rhytmus! :musical_score:
 
-### Plan A: KISS (Keep It Simple and Stupid)
+### Plan A: KISS (Keep It Simple and Stupid) :kiss:
 
-- Orientiere dich an deinem normalen Stundenplan und deinen üblichen Hausaufgaben-Zeiten.
+-  :school: Orientiere dich an deinem normalen Stundenplan und deinen üblichen:crocodile: Hausaufgaben-Zeiten.
 
-### Plan B: Master of Disaster
+### Plan B: Master of Disaster :smiling_imp:
 
 Mal läuft der Messenger nicht, mal musst du deinen Eltern helfen... und das Chaos lebt!
 
-- Versuche, dir trotzdem feste Zeiten zu geben, in denen du lernst. Ein *Anfangsritual* kann sinnvoll sein.
-- Führe eine Übersicht, was in welchem Fach gelernt werden soll.
-- Fang da an, wo Material und Aufgaben vorhanden sind.
-- Wechsle sinnvoll ab: Leichte und schwere, schöne und nervige Aufgaben.
-- Achte darauf, wann du dich am besten konzentrieren kannst: Da ist es sinnvoll, schwierige Sachen zu lernen.
-- Für manche Aufgaben brauchst du Zeit am Stück, um den Gedankengang nachvollziehen zu können.
+- :watch: Versuche, dir trotzdem feste Zeiten zu geben, in denen du lernst. Ein *Anfangsritual* kann sinnvoll sein.
+- :ballot_box_with_check: Führe eine Übersicht, was in welchem Fach gelernt werden soll.
+- :feet: Fang da an, wo Material und Aufgaben vorhanden sind.
+- :smiley_cat: :scream_cat: Wechsle sinnvoll ab: Leichte  und schwere, schöne und nervige Aufgaben.
+- :thinking: Achte darauf, wann du dich am besten konzentrieren kannst: Da ist es sinnvoll, schwierige Sachen zu lernen.
+-  Für manche Aufgaben brauchst du Zeit am Stück, um den Gedankengang nachvollziehen zu können.
 - Bei anderen Themen ist es sinnvoll, diese auf mehrere Tage aufzuteilen, so dass sich das Gelernte nach und nach aufbaut.
 - Fremdsprachen: Vokabeln regelmäßig wiederholen. Verschiedene Fremdsprachen nicht direkt hintereinander lernen.
 - Mache rechtzeitig kürzere und längere Pausen!
