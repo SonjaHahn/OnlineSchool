@@ -10,7 +10,7 @@ Aufgabe: Finde für jede der folgenden Regeln mindestens einen passenden :smile:
 
 - :heart: Weg sollte: Was du aktuell nicht brauchst oder was ablenkt (z.B. leere Süßigkeitenpackungen :candy:, zu viel Deko :crystal_ball:, andere Projekte :gift:).
 - :yellow_heart: In der Nähe: Bücher, Hefte und weitere Schulmaterialien :books:.
-- :green_heart: Direkt auf dem Tisch: Stifte:bulb::bulb::bulb:, aktuell verwendetes Material, evtl. weitere Materialien wie Block/Rechner :computer: /Handy :iphone:, ggf. Schreibtischlampe :bulb: /Uhr :alarm_clock: /Trinken :tea: .
+- :green_heart: Direkt auf dem Tisch: Stifte :pencil2: :pencil2: :pencil2:, aktuell verwendetes Material , evtl. weitere Materialien wie Block :notebook_with_decorative_cover:/Rechner :computer: /Handy :iphone:, ggf. Schreibtischlampe :bulb: /Uhr :alarm_clock: /Trinken :tea: .
 
 ### Rechner :computer:
 
