@@ -16,14 +16,14 @@ Aufgabe: Finde für jede der folgenden Regeln mindestens einen passenden :smile:
 
 **... entweder ausprobieren, Eltern/Freunde fragen oder eine Anleitung suchen:**
 
-- Installiere wichtige Programme, soweit nicht vorhanden (z.B. Browser, Office, Dateiverwaltung, PDF-Viewer).
-- Lege Symbole für diese Programme an, damit du sie leicht finden und öffnen kannst.
-- Erstelle einen Ordner für die Schule, am besten mit einem Unterordner für jedes Fach.
+- :floppy_disk: Installiere wichtige Programme, soweit nicht vorhanden (z.B. Browser, Office, Dateiverwaltung, PDF-Viewer).
+- :pushpin: Lege Symbole für diese Programme an, damit du sie leicht finden und öffnen kannst.
+- :file_folder: Erstelle einen Ordner für die Schule, am besten mit einem Unterordner für jedes Fach.
 - Sorge falls möglich für einen Internetzugang an deinem Arbeitsplatz.
-- Richte dir deinen Browser ein (z.B. Startseite/Lesezeichen für Suchmaschine, Messenger, E-Mail, Wörterbücher, Online-Lexika; Speicherort für Downloads).
-- Richte dir weitere Programme so ein, dass sie dich bei der Arbeit unterstützen (z.B. Ton für neue Nachricht an-/ausstellen, Standardeinstellungen für den Drucker).
-- Recherchiere und lerne wichtige Shortcuts (z.B. Strg + C für Kopieren, Strg + V für Einfügen, Alt + Tab für Programm wechseln).
-- Lerne 10-Finger-System.
+- :bookmark: Richte dir deinen Browser ein (z.B. Startseite/Lesezeichen für Suchmaschine, Messenger, E-Mail, Wörterbücher, Online-Lexika; Speicherort für Downloads).
+- :sound: Richte dir weitere Programme so ein, dass sie dich bei der Arbeit unterstützen (z.B. Ton für neue Nachricht an-/ausstellen, Standardeinstellungen für den Drucker).
+-  :eyeglasses: Recherchiere und lerne wichtige Shortcuts (z.B. Strg + C für Kopieren, Strg + V für Einfügen, Alt + Tab für Programm wechseln).
+- :open_hands: Lerne 10-Finger-System.
 
 ### Sonderfälle
 
