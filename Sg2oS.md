@@ -4,7 +4,7 @@ Aufgabe: Finde für jede der folgenden Regeln mindestens einen passenden :smile:
 
 ## Richte deinen Arbeitsplatz ein!
 
-### Schreibtisch
+### Schreibtisch :vertical_traffic_light:
 
 **... erstmal aufräumen!**
 
