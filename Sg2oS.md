@@ -8,11 +8,11 @@ Aufgabe: Finde für jede der folgenden Regeln mindestens einen passenden :smile:
 
 **... erstmal aufräumen!**
 
-- Weg sollte: Was du aktuell nicht brauchst oder was ablenkt (z.B. leere Süßigkeitenpackungen, zu viel Deko, andere Projekte).
-- In der Nähe: Bücher, Hefte und weitere Schulmaterialien.
-- Direkt auf dem Tisch: Stifte, aktuell verwendetes Material, evtl. weitere Materialien wie Block/Rechner/Handy, ggf. Schreibtischlampe/Uhr/Trinken.
+- :heart: Weg sollte: Was du aktuell nicht brauchst oder was ablenkt (z.B. leere Süßigkeitenpackungen :candy:, zu viel Deko :crystal_ball:, andere Projekte :gift:).
+- :yellow_heart: In der Nähe: Bücher, Hefte und weitere Schulmaterialien :books:.
+- :green_heart: Direkt auf dem Tisch: Stifte:bulb::bulb::bulb:, aktuell verwendetes Material, evtl. weitere Materialien wie Block/Rechner :computer: /Handy :iphone:, ggf. Schreibtischlampe :bulb: /Uhr :alarm_clock: /Trinken :tea: .
 
-### Rechner
+### Rechner :computer:
 
 **... entweder ausprobieren, Eltern/Freunde fragen oder eine Anleitung suchen:**
 
